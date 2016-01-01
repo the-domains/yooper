@@ -1,6 +1,6 @@
 name: yooper
 favicon: null
-layout_spectrum: 0.6604
+layout_spectrum: 0.74336
 typography_spectrum: 0.88491
 title: All About a Yooper
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff0000'
     - '#7f7f7f'
     - '#2f2f2f'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 0.4493755172006786
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.5432137597817928
 purpose: []
