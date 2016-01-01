@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[yooper]]></title>
-        <description><![CDATA[yooper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[All About a Yooper]]></title>
+        <description><![CDATA[All About a Yooper]]></description>
+        <link>https://thegrid.ai/yooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 06:33:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 06:49:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yooper/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7cc6bec-ab9f-46cf-b898-0eda9c446d39.jpg">]]></description>
+            <link>https://thegrid.ai/yooper/cac9e5f2-6fbc-4785-b89c-3660cff252f6/index.html</link>
+            <guid isPermaLink="false">cac9e5f2-6fbc-4785-b89c-3660cff252f6</guid>
+            <pubDate>Fri, 01 Jan 2016 06:49:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c8a65d-f91e-4061-b63d-e6228fec9d2e.jpg">]]></description>
-            <link>undefined1e838687-e67b-4856-95fb-e258f8820e12/index.html</link>
+            <link>https://thegrid.ai/yooper/1e838687-e67b-4856-95fb-e258f8820e12/index.html</link>
             <guid isPermaLink="false">1e838687-e67b-4856-95fb-e258f8820e12</guid>
             <pubDate>Fri, 01 Jan 2016 06:33:38 GMT</pubDate>
         </item>
