@@ -1,7 +1,7 @@
 name: yooper
 favicon: null
-layout_spectrum: 0.74336
-typography_spectrum: 0.88491
+layout_spectrum: 1
+typography_spectrum: 0.96426
 title: All About a Yooper
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#ff0000'
-    - '#7f7f7f'
-    - '#2f2f2f'
-  brandStrength: 0.25
-  lightness: 0.4493755172006786
-  saturation: 0
-  rhythmicContrast: 0.5432137597817928
+    - '#91897c'
+    - '#b0bab2'
+    - '#e0e2dd'
+    - '#4f514c'
+    - '#0f0a04'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
