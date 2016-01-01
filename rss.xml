@@ -4,8 +4,15 @@
         <description><![CDATA[Pic descript of the U.P.]]></description>
         <link>https://thegrid.ai/yooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 22:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 22:16:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yooper/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Locks]]></title>
+            <description><![CDATA[<article><h1>Locks</h1><p>Shipping downriver</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ec5b8eeedfc0712b85c75fa404cbb5947265420.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yooper/locks/index.html</link>
+            <guid isPermaLink="false">65c8b3b6-c6c0-4137-82d6-9b78f2ccfcdd</guid>
+            <pubDate>Fri, 01 Jan 2016 22:16:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shipping]]></title>
             <description><![CDATA[<article><h1>Shipping</h1><p>Keep the ore a moving, eh!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c511d913c453a04c0a3735eeb57c9195dac15e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yooper/34240b22-4f6e-43cb-a39c-3c3a3ed05fe9/index.html</link>
             <guid isPermaLink="false">34240b22-4f6e-43cb-a39c-3c3a3ed05fe9</guid>
             <pubDate>Fri, 01 Jan 2016 15:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Memorial]]></title>
-            <description><![CDATA[<article><h1>Memorial</h1><p>A time when the church led the colonization of the area.  Indigenous peoples were assimilated</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0922a58ce9aa85a77751a4e53bffd994db52345.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yooper/5880d833-9afa-4791-8279-b4a3db47ee3e/index.html</link>
-            <guid isPermaLink="false">5880d833-9afa-4791-8279-b4a3db47ee3e</guid>
-            <pubDate>Fri, 01 Jan 2016 15:25:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
