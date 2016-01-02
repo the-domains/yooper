@@ -1,6 +1,6 @@
 name: yooper
 favicon: null
-layout_spectrum: 0.66366
+layout_spectrum: 0.37692
 typography_spectrum: 0
 title: Pic descript of the U.P.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#718b8c'
     - '#1d2528'
     - '#755723'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
