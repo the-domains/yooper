@@ -1,29 +1,41 @@
-name: yooper
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0
 title: Pic descript of the U.P.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.367884
+  lightness: 0
   brandColors:
     - '#5c2a33'
     - '#abc5c6'
     - '#718b8c'
     - '#1d2528'
     - '#755723'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: yooper
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 1
