@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.367884
   lightness: 0
+  brandStrength: 0.1337272
   brandColors:
     - '#5c2a33'
     - '#abc5c6'
     - '#718b8c'
     - '#1d2528'
     - '#755723'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0
-layout_spectrum: 1
+typography_spectrum: 0.3786251
+layout_spectrum: 0.7019334
