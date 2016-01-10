@@ -4,11 +4,11 @@
         <description><![CDATA[Pic descript of the U.P.]]></description>
         <link>https://thegrid.ai/yooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 20:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 22:15:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yooper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Locks]]></title>
-            <description><![CDATA[<article><h1>Locks</h1><p>Shipping downriver</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edeb2e17141c5ce737b860a449804181bf088d85.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Locks</h1><p>Shipping downriver</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1647c2ef09028a86d97db951c4a368676cc8e301.jpg"></article>]]></description>
             <link>https://thegrid.ai/yooper/locks/index.html</link>
             <guid isPermaLink="false">65c8b3b6-c6c0-4137-82d6-9b78f2ccfcdd</guid>
             <pubDate>Fri, 01 Jan 2016 22:16:17 GMT</pubDate>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/yooper/645b6238-0f23-49a5-82dd-2c3cd5b3493f/index.html</link>
             <guid isPermaLink="false">645b6238-0f23-49a5-82dd-2c3cd5b3493f</guid>
             <pubDate>Fri, 01 Jan 2016 17:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yooper]]></title>
+            <description><![CDATA[<article><h1>Yooper</h1><h2>Definition ofYooper</h2><p>noun Yoop·er </p></article>]]></description>
+            <link>https://thegrid.ai/yooper/yooper/index.html</link>
+            <guid isPermaLink="false">60c49df8-2dbb-4156-9953-114266b276e8</guid>
+            <pubDate>Sun, 10 Jan 2016 22:15:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[Lighthouses]]></title>
-            <description><![CDATA[<article><h1>Lighthouses</h1><p>A beacon of safety</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27fc5056e46c1e05621a5185fcd3775fd292e111.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Lighthouses</h1><p>A beacon of safety</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df3771f33888b9465da311d69b917a21c4956370.jpg"></article>]]></description>
             <link>https://thegrid.ai/yooper/lighthouses/index.html</link>
             <guid isPermaLink="false">0833f8e7-ba9e-496a-b5b6-c9890ee45742</guid>
             <pubDate>Fri, 01 Jan 2016 22:14:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yooper/fishing/index.html</link>
             <guid isPermaLink="false">1eaeee6f-2c29-4318-9915-9b86bcc878fb</guid>
             <pubDate>Fri, 01 Jan 2016 22:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logging tools]]></title>
-            <description><![CDATA[<article><h1>Logging tools</h1><p>Haul the logs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86815feabda47e872a6f949de87966b5d2e2c33a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yooper/ab116b29-0e6d-4448-b2b5-701ddcf7b6e2/index.html</link>
-            <guid isPermaLink="false">ab116b29-0e6d-4448-b2b5-701ddcf7b6e2</guid>
-            <pubDate>Fri, 01 Jan 2016 15:31:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
