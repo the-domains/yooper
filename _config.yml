@@ -2,7 +2,7 @@ name: yooper
 favicon: null
 layout_spectrum: 0.86604
 typography_spectrum: 0.10631
-title: Pic descript of the U.P.
+title: Yooper Pics
 collections:
   - index:
       path: /
