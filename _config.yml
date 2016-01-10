@@ -1,5 +1,8 @@
+name: yooper
+favicon: null
+layout_spectrum: 0.86604
+typography_spectrum: 0.10631
 title: Pic descript of the U.P.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0
-  lightness: 0
-  brandStrength: 0.1337272
-  brandColors:
-    - '#5c2a33'
-    - '#abc5c6'
-    - '#718b8c'
-    - '#1d2528'
-    - '#755723'
-  rhythmicContrast: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: yooper
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3786251
-layout_spectrum: 0.7019334
+color:
+  brandColors:
+    - '#ffffff'
+    - '#aaff3f'
+    - '#c6c6c6'
+    - '#595959'
+    - '#232323'
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.25
+purpose: []
