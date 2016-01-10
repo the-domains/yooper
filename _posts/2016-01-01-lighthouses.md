@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A beacon of safety
-datePublished: '2016-01-01T22:14:59.984Z'
-dateModified: '2016-01-01T22:14:42.356Z'
+datePublished: '2016-01-10T22:18:28.246Z'
+dateModified: '2016-01-10T22:16:31.499Z'
 title: Lighthouses
 author: []
 authors: []
